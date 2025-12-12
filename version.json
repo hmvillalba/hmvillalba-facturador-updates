@@ -1,7 +1,7 @@
-{
-  "fecha": "2025-12-12T09:52:04Z",
-  "url": "https://drive.google.com/uc?export=download&id=1IXnjAk9i-veof2xRb4nqzRxnr-U8o_8v",
-  "version": "1.0.2",
-  "sha256": "5d2a637f8ba68f88b5bdaa49fd671904c1a936f3cb3492fa20fe6140c096d09f",
-  "releaseNotes": "Prueba de actualización híbrida"
+﻿{
+    "releaseNotes":  "Actualizacion de prueba",
+    "url":  "https://drive.google.com/file/d/11mc-2JoTPmYrD_SxlIPL-trXIWxz9gMG/view?usp=drive_link",
+    "fecha":  "2025-12-12T15:04:12Z",
+    "version":  "1.0.3",
+    "sha256":  "47037b15a443bdaed24fc8e1322c48f4412acd5b2e2d0b69565eb0edaba8ed0a"
 }
