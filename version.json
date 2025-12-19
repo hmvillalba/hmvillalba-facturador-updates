@@ -1,5 +1,7 @@
 {
   "version": "1.1.2",
+  "url": "https://github.com/hmvillalba/hmvillalba-facturador-updates/releases/download/v1.1.2/Facturador_Windows_v1.1.2.zip",
+  "sha256": "a163a2831df60d04baf5683a4324129c6b3d39d12971c97c92b13cb8b434f89f",
   "platforms": {
     "win-x64": {
       "url": "https://github.com/hmvillalba/hmvillalba-facturador-updates/releases/download/v1.1.2/Facturador_Windows_v1.1.2.zip",
