@@ -1,15 +1,15 @@
 {
   "version": "1.1.2",
   "url": "https://github.com/hmvillalba/hmvillalba-facturador-updates/releases/download/v1.1.2/Facturador_Windows_v1.1.2.zip",
-  "sha256": "a163a2831df60d04baf5683a4324129c6b3d39d12971c97c92b13cb8b434f89f",
+  "sha256": "c11835e38549338d50a75919c6786c5c13f1ffc0b575b37f7650e48f8ec5e95c",
   "platforms": {
     "win-x64": {
       "url": "https://github.com/hmvillalba/hmvillalba-facturador-updates/releases/download/v1.1.2/Facturador_Windows_v1.1.2.zip",
-      "sha256": "a163a2831df60d04baf5683a4324129c6b3d39d12971c97c92b13cb8b434f89f"
+      "sha256": "c11835e38549338d50a75919c6786c5c13f1ffc0b575b37f7650e48f8ec5e95c"
     },
     "linux-x64": {
       "url": "https://github.com/hmvillalba/hmvillalba-facturador-updates/releases/download/v1.1.2/Facturador_Linux_v1.1.2.zip",
-      "sha256": "c7f2a986f4f20a429e67b7f92ff951a56515be890da6e3897234644e01b7f796"
+      "sha256": "f06aa5b71d441e440e43cad896ec953c85d1c3874321fa760d1a5eb93dbd6fd8"
     }
   },
   "fecha": "2025-12-19",
