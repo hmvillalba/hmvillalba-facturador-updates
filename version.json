@@ -1,5 +1,15 @@
-﻿{
-    "version": "1.1.1",
-    "url": "https://github.com/hmvillalba/hmvillalba-facturador-updates/releases/download/v1.1.1/Facturacion.UI_v1.1.1.zip",
-    "sha256": "99F4A112AF91829FC1DA04EAB7A3F5EBF3AE8DE989687BD0E0F02A405C96E949"
+{
+  "version": "1.1.2",
+  "platforms": {
+    "win-x64": {
+      "url": "https://github.com/hmvillalba/hmvillalba-facturador-updates/releases/download/v1.1.2/Facturador_Windows_v1.1.2.zip",
+      "sha256": "a163a2831df60d04baf5683a4324129c6b3d39d12971c97c92b13cb8b434f89f"
+    },
+    "linux-x64": {
+      "url": "https://github.com/hmvillalba/hmvillalba-facturador-updates/releases/download/v1.1.2/Facturador_Linux_v1.1.2.zip",
+      "sha256": "c7f2a986f4f20a429e67b7f92ff951a56515be890da6e3897234644e01b7f796"
+    }
+  },
+  "fecha": "2025-12-19",
+  "releaseNotes": "Actualización multiplataforma v1.1.2"
 }
