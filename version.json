@@ -1,17 +1,17 @@
 {
-  "version": "1.1.3",
-  "url": "https://github.com/hmvillalba/hmvillalba-facturador-updates/releases/download/v1.1.3/Facturador_Windows_v1.1.3.zip",
-  "sha256": "cf80cf5f0d797d99e72e02ee74b6eee8d6d7d7f3bd6deb1890b880657b4a5086",
+  "version": "1.1.4",
+  "url": "https://github.com/hmvillalba/hmvillalba-facturador-updates/releases/download/v1.1.4/Facturador_Windows_v1.1.4.zip",
+  "sha256": "e0d990172a3f5ca3fb10e586661cf4088984fe51c28f8d1e796f918c0b4a5f05",
   "platforms": {
     "win-x64": {
-      "url": "https://github.com/hmvillalba/hmvillalba-facturador-updates/releases/download/v1.1.3/Facturador_Windows_v1.1.3.zip",
-      "sha256": "cf80cf5f0d797d99e72e02ee74b6eee8d6d7d7f3bd6deb1890b880657b4a5086"
+      "url": "https://github.com/hmvillalba/hmvillalba-facturador-updates/releases/download/v1.1.4/Facturador_Windows_v1.1.4.zip",
+      "sha256": "e0d990172a3f5ca3fb10e586661cf4088984fe51c28f8d1e796f918c0b4a5f05"
     },
     "linux-x64": {
-      "url": "https://github.com/hmvillalba/hmvillalba-facturador-updates/releases/download/v1.1.3/Facturador_Linux_v1.1.3.zip",
-      "sha256": "6afbc965d87dcd4f41275e3b2fcad04097535bf1301e1f40bf55a91da89e0496"
+      "url": "https://github.com/hmvillalba/hmvillalba-facturador-updates/releases/download/v1.1.4/Facturador_Linux_v1.1.4.zip",
+      "sha256": "82c9ae00fe29090ac6be42432da8a5e2392d9f0757f97f2599e9be050b7945dc"
     }
   },
   "fecha": "2025-12-19",
-  "releaseNotes": "Actualización multiplataforma v1.1.3 - Incluye logo auto-organizable"
+  "releaseNotes": "Actualización multiplataforma v1.1.4 - Prueba de auto-descarga en Splash Screen"
 }
