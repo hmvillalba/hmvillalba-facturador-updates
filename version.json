@@ -1,17 +1,17 @@
 {
-  "version": "1.1.6",
-  "url": "https://github.com/hmvillalba/hmvillalba-facturador-updates/releases/download/v1.1.6/Facturador_Windows_v1.1.6.zip",
-  "sha256": "304265a8e142e7a5e384779349e86ad734c79206e5e3d4f5d45bc95a839d0c56",
+  "version": "1.1.7",
+  "url": "https://github.com/hmvillalba/hmvillalba-facturador-updates/releases/download/v1.1.7/Facturador_Windows_v1.1.7.zip",
+  "sha256": "B90FF797D2BF2BC7610929B2DE7EEC4637E84EBEFE0586AA94556A9DE500C6E4",
   "platforms": {
     "win-x64": {
-      "url": "https://github.com/hmvillalba/hmvillalba-facturador-updates/releases/download/v1.1.6/Facturador_Windows_v1.1.6.zip",
-      "sha256": "304265a8e142e7a5e384779349e86ad734c79206e5e3d4f5d45bc95a839d0c56"
+      "url": "https://github.com/hmvillalba/hmvillalba-facturador-updates/releases/download/v1.1.7/Facturador_Windows_v1.1.7.zip",
+      "sha256": "B90FF797D2BF2BC7610929B2DE7EEC4637E84EBEFE0586AA94556A9DE500C6E4"
     },
     "linux-x64": {
-      "url": "https://github.com/hmvillalba/hmvillalba-facturador-updates/releases/download/v1.1.6/Facturador_Linux_v1.1.6.zip",
-      "sha256": "2d40d857365a91038b472c53ae3e33cf9cf219e78c70f87b7f2fe613ab33edc2"
+      "url": "https://github.com/hmvillalba/hmvillalba-facturador-updates/releases/download/v1.1.7/Facturador_Linux_v1.1.7.zip",
+      "sha256": "7BBA9CBA986B6636398ABE60AF9FDB7C1357C658863C2A09DC21E7683748C9DA"
     }
   },
-  "fecha": "2025-12-20",
-  "releaseNotes": "Actualización v1.1.6: Nuevo flujo visual, limpieza de botones y cambio de marca AFIP -> ARCA. Corrección de recursividad infinita en el Updater."
+  "fecha": "2025-12-21",
+  "releaseNotes": "Actualización v1.1.7: Compilación y empaquetado optimizado, corrección del logo en Splash Screen, resolución de estado en Dashboard Principal, y reparación del sistema de actualizaciones (lectura correcta de versión disponible)."
 }
