@@ -1,17 +1,15 @@
 {
-  "version": "1.1.8",
-  "fecha": "2025-12-22",
-  "releaseNotes": "Versión 1.1.8 - Validación de Punto de Venta\n\n- Agregado: Control granular de Punto de Venta por defecto (RequerirPuntoDeVenta)\n- Agregado: Validación de licencia al inicio (ValidarDespuesDelLogin)\n- Agregado: Suite de pruebas automatizadas para validación de licencias\n- Mejorado: Sistema de validación online/offline con fallback\n- Corregido: Errores de criptografía en tokens offline (AES-256)\n- Actualizado: Documentación de configuración (MANUAL_CONFIG_PATCH.md)",
-  "url": "https://github.com/hmvillalba/hmvillalba-facturador-updates/releases/download/v1.1.8/Facturador_Windows_v1.1.8.zip",
-  "sha256": "98f1ef8f38dc6f52daa3b9a8fb693b16b09b42ef26f6ae1a2e2274f9b3351bcd",
+  "releaseNotes": "Actualización multiplataforma v1.1.9",
+  "fecha": "2026-01-03",
+  "version": "1.1.9",
   "platforms": {
-    "win-x64": {
-      "url": "https://github.com/hmvillalba/hmvillalba-facturador-updates/releases/download/v1.1.8/Facturador_Windows_v1.1.8.zip",
-      "sha256": "98f1ef8f38dc6f52daa3b9a8fb693b16b09b42ef26f6ae1a2e2274f9b3351bcd"
-    },
     "linux-x64": {
-      "url": "https://github.com/hmvillalba/hmvillalba-facturador-updates/releases/download/v1.1.8/Facturador_Linux_v1.1.8.zip",
-      "sha256": "6eca0dd7537af4c1b131191e7ab77248b53d8e6d48135eb18dc3231f2b4ba971"
+      "url": "Facturador_Linux_v1.1.9.zip",
+      "sha256": "9b793bef4c486293cf7cb24968198e6c2863430a1fa50b62b33fe4cfe3327f63"
+    },
+    "win-x64": {
+      "url": "Facturador_Windows_v1.1.9.zip",
+      "sha256": "52b874f6890f82b58381d8d409d71301ae8910f56e7c3d9fda448ccde80b4180"
     }
   }
 }
