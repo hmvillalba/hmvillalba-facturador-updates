@@ -1,15 +1,17 @@
 {
-  "releaseNotes": "Actualización multiplataforma v1.1.10",
-  "fecha": "2026-01-08",
-  "version": "1.1.10",
+  "version": "1.2.0",
+  "fecha": "2026-01-13",
+  "releaseNotes": "Implementación de gestión de stock en productos y reportes PDF.",
+  "url": "https://github.com/hmvillalba/hmvillalba-facturador-updates/releases/download/v1.2.0/Facturador_Windows_v1.2.0.zip",
+  "sha256": "51585395542e10a722b15aeee92966b5299f28d92f50dd0d142ddce70c2b8da4",
   "platforms": {
-    "linux-x64": {
-      "url": "Facturador_Linux_v1.1.10.zip",
-      "sha256": "9F7426506E47B679FD4157E872E2D55BBC162410194388C36CF08FF06736A5CB"
-    },
     "win-x64": {
-      "url": "Facturador_Windows_v1.1.10.zip",
-      "sha256": "FCC553A65130F22642B27BD97219A7F04B11D48228E9B4AE1E358063ABE0221D"
+      "url": "https://github.com/hmvillalba/hmvillalba-facturador-updates/releases/download/v1.2.0/Facturador_Windows_v1.2.0.zip",
+      "sha256": "51585395542e10a722b15aeee92966b5299f28d92f50dd0d142ddce70c2b8da4"
+    },
+    "linux-x64": {
+      "url": "https://github.com/hmvillalba/hmvillalba-facturador-updates/releases/download/v1.2.0/Facturador_Linux_v1.2.0.zip",
+      "sha256": "4ad83432decc50f32ec779803ca5d11ffb550e1e03efe8c4fc54e2ef18010bc2"
     }
   }
 }
